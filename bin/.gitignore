@@ -1,0 +1,9 @@
+.mvn/
+.settings/
+target/
+.classpath
+.project
+*.md
+mvnw
+*.cmd
+*.xml
